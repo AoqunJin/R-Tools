@@ -1,0 +1,6 @@
+env_name: Door
+env_configuration: None
+robots: 
+  - Panda
+controller_name: JOINT_VELOCITY
+
